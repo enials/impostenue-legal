@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4",
-  "date": "2026-03-12",
+  "version": "1.8.5",
+  "date": "2026-03-13",
   "notes_fr": ["✨ Système de mise à jour automatique", "🔒 Lien CGU dans les Réglages"],
   "notes_en": ["✨ Automatic update system", "🔒 Privacy Policy link in Settings"],
-  "apk_url": "https://github.com/enials/enials-impostenue-1.8.4/releases/download/1.8.4/impostenue-1.8.4.apk"
+  "apk_url": "https://github.com/enials/impostenue-1.8.5/releases/download/1.8.5/impostenue-1.8.5.apk"
 }
